@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Z:/Java_Projects/QuizWebApp/web/main2.js</file>
+            <file>file:/Z:/Java_Projects/QuizWebApp/web/AdminLogin.jsp</file>
+            <file>file:/Z:/Java_Projects/QuizWebApp/src/java/qwa/model/Question_db.java</file>
+            <file>file:/Z:/Java_Projects/QuizWebApp/src/java/qwa/database/Admin.java</file>
+            <file>file:/Z:/Java_Projects/QuizWebApp/src/java/qwa/model/Admin_db.java</file>
+            <file>file:/Z:/Java_Projects/QuizWebApp/web/index.html</file>
+            <file>file:/Z:/Java_Projects/QuizWebApp/src/java/qwa/validation/ValidateAdmin.java</file>
+            <file>file:/Z:/Java_Projects/QuizWebApp/src/java/qwa/validation/QuestionInsert.java</file>
+        </group>
+    </open-files>
+</project-private>
